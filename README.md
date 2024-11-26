@@ -4,9 +4,6 @@ I created this full-stack budgeting app using Ruby on Rails and PostgreSQL. It w
 
 ![budget app](https://imgur.com/c0PuJYv.gif)
 
-## Live Demo
-The App is deployed by Heroku and is available [here](https://morning-anchorage-14468.herokuapp.com/)
-
 ## Getting Started/Code Installation
 
 To access and run the code for this project, follow these steps:
